@@ -1,3 +1,10 @@
+# Spring-PetClinic 샘플 프로젝트를 통한 스프링 이해
+https://www.inflearn.com/course/spring_revised_edition#
+인프런 과정을 통해 수강하였습니다. 
+
+해당 강좌에서는
+스프링 IoC, Bean 설정, DI, AOP에 관해 배울수 있었습니다. 
+
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=main)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
 ## Understanding the Spring Petclinic application with a few diagrams
